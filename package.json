@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "flow-bin": "^0.42.0"
+  },
+  "dependencies": {
+    "firebase": "^3.7.2"
   }
 }
